@@ -63,3 +63,9 @@ h2.intro{
     height: 100%;
     padding: 1rem;
 }
+.login{
+    height: 75vh;
+}
+.formulario-login{
+    margin-top: 12%;
+}
