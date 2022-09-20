@@ -69,3 +69,21 @@ h2.intro{
 .formulario-login{
     margin-top: 12%;
 }
+
+
+
+
+
+
+/*foto del panel*/
+.perfil{
+    width: 50%;
+}
+
+.admin{
+    font-size: 1.5rem;
+}
+.link{
+    text-decoration: none;
+    color: #000000;
+}
